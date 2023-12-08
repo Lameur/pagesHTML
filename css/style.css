@@ -21,3 +21,7 @@ h2.titre {
   padding-left: 100px;
   font-familly: comic sans MS, "Arial black", calibri;
 }
+.link {
+  font-align: center;
+  color: #ffd9;
+}
